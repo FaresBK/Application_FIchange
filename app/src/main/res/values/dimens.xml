@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_gmail">280dp</dimen>
+    <dimen name="hight_gmail">45dp</dimen>
+    <dimen name="width_password">280dp</dimen>
+    <dimen name="hight_password">45dp</dimen>
+    <dimen name="image_view_width">120dp</dimen>
+    <dimen name="imagewidth_sortir">50dp</dimen>
+    <dimen name="imagehight_sortir">50dp</dimen>
+    <dimen name="imagewidth_contect">50dp</dimen>
+    <dimen name="imagehight_contect">50dp</dimen>
+    <dimen name="width_edittext">250dp</dimen>
+    <dimen name="hight_edittext">40dp</dimen>
+    <dimen name="buttwidth_suivent">150dp</dimen>
+    <dimen name="butthigh_suivent">40dp</dimen>
+    <dimen name="buttwidth_annulation">150dp</dimen>
+    <dimen name="butthigh_annulation">40dp</dimen>
+    <dimen name="width_dialog">380dp</dimen>
+    <dimen name="hight_dialog">300dp</dimen>
+    <dimen name="text_size">20dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217465177272",
+    "firebase_url": "https://fichange-default-rtdb.firebaseio.com",
+    "project_id": "fichange",
+    "storage_bucket": "fichange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217465177272:android:ccc90845ec04eb5c53a04d",
+        "android_client_info": {
+          "package_name": "com.fares.fi_echanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217465177272-ee1uv6pvlk51vrcho2pgu2c3kh0f0p48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fares.fi_echanger",
+            "certificate_hash": "c3fcaf0f70ef1b4bce28a9a996a999f1ed58504c"
+          }
+        },
+        {
+          "client_id": "217465177272-6cpd3oqqfa7lfaf3346adk33nvkubgvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLGTuWkFZX-vgcYMjgoPEEwrE_IZc5FP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217465177272-6cpd3oqqfa7lfaf3346adk33nvkubgvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
